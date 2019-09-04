@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Anton Emanakov](https://up.htmlacademy.ru/htmlcss/26/user/1068557).
-* Наставник: `Артём Ильченко`(https://htmlacademy.ru/profile/id375383).
+* Наставник: [Артём Ильченко](https://htmlacademy.ru/profile/id375383).
 
 ---
 
